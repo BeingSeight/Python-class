@@ -1069,3 +1069,13 @@ else:
 # else:
 #    print("Element not found")
 
+l1=list(range(0,10,2))
+print(l1)
+print(type(l1))
+
+
+print(" ")
+print("----------------------------------")
+print(" ")
+
+
