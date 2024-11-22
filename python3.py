@@ -99,3 +99,8 @@ print(people)
 del people['married']
 print(people)
 
+# Accessing elements of a Nested Dictionary
+for p_id, p_info in people.items():
+    print("\nPerson ID:", p_id)
+    for key in p_info:
+      print(key + ":", p_info[key])
