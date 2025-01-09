@@ -96,5 +96,3 @@ If you have any questions or suggestions, feel free to open an issue on GitHub.
 
 ---
 ```
-
-Feel free to modify any section as per your specific needs and details of your `Python-class` repository.
